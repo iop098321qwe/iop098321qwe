@@ -1,6 +1,6 @@
-## SOMETIMES
+## Hi there
 
-[![iop098321qwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/iop098321qwe/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iop098321qwe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iop098321qwe/iop098321qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
